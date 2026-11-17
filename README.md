@@ -13,9 +13,6 @@ Group code: S03-G6
 | No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
 |----|------|--------|------|----------------------------------|----------------------|
 | 1  |   12/11  |    All members    |  Divide task for each members and decide to make a shared google docs file to proceed with the assignment    |     Course website                             |                      |
-| 2  |   14/11   |     Nur Alya Nabila   |  1. Start researching for the questions that as for what critical,creative,mathematical and scientific thinking are.
-2. Searching for good source to depends on and some reasearch paper on reliable website. 
-3. Use AI agent on the reliable website to summaries the research paper on the topic with the references from academic papers. 
-4. Fill in the content for the question about four types of thinking and do the self reflection about how i will succeed over the next three years in this field.|      PaperPal; AI prompt used: Explain briefly what is creative thinking?                            |                      |
+| 2  |   14/11   |     Nur Alya Nabila   |  1. Start researching for the questions that as for what critical,creative,mathematical and scientific thinking are. <br> 2. Searching for good source to depends on and some reasearch paper on reliable website.<br> 3. Use AI agent on the reliable website to summaries the research paper on the topic with the references from academic papers. <br> 4. Fill in the content for the question about four types of thinking and do the self reflection about how i will succeed over the next three years in this field.|      PaperPal; AI prompt used: Explain briefly what is creative thinking?                            |                      |
 | 3  |  16/11    |     Nur Alya Nabila   |   Decide to transfer all content from google docs file to canva to use more creative features as there will be marks for creativity in the rubric given   |              Canva and Course Website                    |                      |
 | 4  |      |        |      |                                  |                      |
