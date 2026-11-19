@@ -1,2 +1,2 @@
 # CASE STUDY (PRIME VIDEO)
-[Case_Study_Prime_Video.pdf (PDF)](https://nuralyanabila.github.io/S03-G6/)
+[S03-G6-Topic3-PrimeVideo.pdf (PDF)](https://nuralyanabila.github.io/S03-G6/S03-G6-Topic3-PrimeVideo.pdf)
