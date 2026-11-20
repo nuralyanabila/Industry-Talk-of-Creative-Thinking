@@ -1,19 +1,23 @@
-# LOG ACTIVITY Industry-Talk-of-Creative-Thinking 
-DATA ENGINEERING ECOSYSTEM (SCST1133)
+# LOG ACTIVITY: INDUSTRY TALK OF CREATIVE THINKING
+## DATA ENGINEERING ECOSYSTEM (SCST1133)
 
-Prepared By: 
+**Prepared By:**
 1. MUHAMMAD AIRIEL RAFIEQ BIN ROSLAN (A26CS0196)
 2. NUR ALYA NABILA BINTI MOHD NAWAWI (A26CS0287)
 3. SIEW MIN EN (A26CS0459)
 4. WAN MUHAMMAD DANISH BIN WAN MOHD TARMIZI (A26CS0409)
 
-ASSIGNMENT 1 – INDUSTRY TALK 1: CREATIVE THINKING
-Group code: S03-G6
+**ASSIGNMENT 1 – INDUSTRY TALK 1: CREATIVE THINKING**
 
-| No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
-|----|------|--------|------|----------------------------------|----------------------|
-| 1  |   12/11  |    All members    |  Divide task for each members and decide to make a shared google docs file to proceed with the assignment    |     Course website                             |                      |
-| 2  |   14/11   |     Nur Alya Nabila   |  1. Start researching for the questions that as for what critical,creative,mathematical and scientific thinking are. <br> 2. Searching for good source to depends on and some reasearch paper on reliable website.<br> 3. Use AI agent on the reliable website to summaries the research paper on the topic with the references from academic papers. <br> 4. Fill in the content for the question about four types of thinking and do the self reflection about how i will succeed over the next three years in this field.|      PaperPal; AI prompt used: Explain briefly what is creative thinking?                            |                      |
-| 3  |  16/11    |     Nur Alya Nabila   |   Decide to transfer all content from google docs file to canva to use more creative features as there will be marks for creativity in the rubric given   |              Canva and Course Website                    |                      |
-| 4  |   16/11   |   Wan Muhammad Danish     |   1. Start searching for the speaker's background and experience on the reliable website. <br> 2. Use the CenT-TI website to review the speaker's experienced and used Claude AI to summarise and verify the information. <br> 3. Fill in the content for the question about speaker's experience and write the self reflection about the talk. |  CenT-TI website and Claude AI; AI prompt used : Summarise the speaker experience and double check the information.                                |                      |
-| 5  |   16/11   |   Siew Ming En     |   1. Start researching for applying HOTS in computer science and data engineering in real life. <br> 2.  Finding reliable sources to support my part. <br> 3.  Used AI to check grammar and wording. <br> 4. Do the self reflection after the talk. | AI prompt used to check grammar and wording.                    |                            |
+**Group Code:** S03-G6
+
+| No. | Date | Member | Task | Source / Search / AI Prompt Used | Output / GitHub Link |
+|---|---|---|---|---|---|
+| 1 | 12/11 | All Members | Divide tasks among group members and create a shared Google Docs file for collaboration. | Course website | Shared Google Docs |
+| 2 | 14/11 | Nur Alya Nabila | 1. Research the four types of thinking: Critical, Creative, Mathematical and Scientific Thinking.<br>2. Find reliable sources and academic research papers.<br>3. Use AI to summarise research papers and identify academic references.<br>4. Prepare the content and individual self-reflection. | PaperPal; AI prompt: "Explain briefly what is creative thinking?" | Assignment content |
+| 3 | 16/11 | Nur Alya Nabila | Transfer the assignment content from Google Docs to Canva and arrange the infographic according to the assignment rubric. | Canva and course website | Canva infographic |
+| 4 | 16/11 | Wan Muhammad Danish | 1. Research the speaker's background and experience using reliable websites.<br>2. Refer to the CenT-TI website and use Claude AI to summarise and verify information.<br>3. Prepare the speaker's background and individual self-reflection. | CenT-TI website and Claude AI; AI prompt: "Summarise the speaker experience and double check the information." | Speaker's background |
+| 5 | 16/11 | Siew Min En | 1. Research the application of HOTS in Computer Science and Data Engineering.<br>2. Find reliable sources to support the research.<br>3. Use AI to check grammar and wording.<br>4. Write the individual self-reflection. | AI prompt used for grammar and wording checking. | HOTS research |
+| 6 | 16/11 | Muhammad Airiel Rafieq | 1. Research Higher-Order Thinking Skills (HOTS) and Bloom's Taxonomy.<br>2. Identify and explain the three higher-order thinking levels: Analysing, Evaluating and Creating.<br>3. Prepare the HOTS content for the assignment. | ChatGPT; AI prompt: "Explain Higher-Order Thinking Skills (HOTS) and Bloom's Taxonomy briefly." | HOTS content |
+| 7 | 20/11 | Muhammad Airiel Rafieq | 1. Review the Canva infographic draft to verify academic formatting and citation requirements.<br>2. Identify suitable placements for in-text citations and prepare the reference list. | Gemini AI; AI prompt: "Where should I put in-text citations?" (with Canva poster draft attached). | Reviewed infographic and references |
+
